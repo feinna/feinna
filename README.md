@@ -1,9 +1,5 @@
-## Hi there 👋
-
-testing!
-
-<!--
-**feinna/feinna** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Welcome to my github space
+<!--**feinna/feinna** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -16,3 +12,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+🏛️ A PhD Candidate at Monash University in the School of Media, Film & Journalism
+💬 I use large language models to write and re-write information so that it's more understandable to more people
+👷🏻 I like to build stuff!
+
