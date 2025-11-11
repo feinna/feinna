@@ -15,7 +15,9 @@ Here are some ideas to get you started:
 
 🏛️ A PhD Candidate at Monash University in the School of Media, Film & Journalism
 
-💬 I use large language models to write and re-write information so that it's more understandable to more people
+🚧 My current project uses large language models to write and re-write information so that it's more understandable to more people
 
 👷🏻 I like to build stuff!
 
+📅 My previous projects include: an exploration of explanatory memoranda readability (masters project)
+ 
