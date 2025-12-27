@@ -1,8 +1,8 @@
 # Hello.
-My name is Jenn and I currently live in Melbourne, Australia. I am in the final year of my PhD, which means I have completed my data collection and am writing up my results.
+My name is Jenn and I currently live in Melbourne, Australia. 
 
 ## 🏛️ My current project: a phd thesis
-I sit within the Faculty of Arts at Monash University within the School of Media, Film and Journalism. My thesis is currently titled “Making Parliament Accessible”. 
+I sit within the Faculty of Arts at Monash University within the School of Media, Film and Journalism. My thesis is currently titled “Making Parliament Accessible”. I am in the final year of my PhD, which means I have completed my data collection and am writing up my results.
 
 I use large language models (Llama 3.1 8B, Mistral Small 3.1 24B, and Claude 4 Opus) to write government bill explainer documents (explanatory memoranda) using the text of specific federal parliamentary bills. I am interested in finding out whether the language models are capable of writing this information to a more understandable level than what currently exists, and if so, what gets changed in the process of doing so. I use python for this project.
 
