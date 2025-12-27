@@ -13,3 +13,8 @@ My hobbies include: reading, target archery (barebow), cycling, dancing (balboa)
 I am an affiliate of the ARC Automated Decision Making and Society Centre (https://www.admscentre.org.au/). Here is my profile on the ADM+S website (https://www.admscentre.org.au/jenn-wilson/). I cannot speak more highly to the centre itself, the scholars within it, the professional staff, and the overwhelmingly positive engagement that comes from being a member of a research group.
 
 If you are thinking of doing a PhD in Australia, my biggest piece of advice is to do it through a research centre if you can, and if you can’t, find out if your prospective advisors are members of a research centre that you can affiliate with. It’s well worth the conversation.
+
+## 🔗 Links to fun projects
+Dino Fancie: https://steamcommunity.com/sharedfiles/filedetails/?id=2665501622
+
+Digital art made for the Dino Fancie mod of Sentinels of the Multiverse. Dino Fancie adds a dinosaur called Bonnie to the game as hero that you can play, and an environment, The Grand Ball, that you can play in.
