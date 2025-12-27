@@ -1,5 +1,5 @@
 # Hello.
-My name is Jenn and I currently live in Melbourne, Australia. I am in the final year of my PhD. Some days it’s fascinating and some days I hate it.
+My name is Jenn and I currently live in Melbourne, Australia. I am in the final year of my PhD, which means I have completed my data collection and am writing up my results.
 
 ## 🏛️ My current project: a phd thesis
 I sit within the Faculty of Arts at Monash University within the School of Media, Film and Journalism. My thesis is currently titled “Making Parliament Accessible”. 
