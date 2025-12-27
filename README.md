@@ -19,4 +19,5 @@ Dino Fancie: https://steamcommunity.com/sharedfiles/filedetails/?id=2665501622
 
 Digital art made for the Dino Fancie mod of Sentinels of the Multiverse. Dino Fancie adds a dinosaur called Bonnie to the game as hero that you can play, and an environment, The Grand Ball, that you can play in.
 
+<br />
 <i> Feeling tired? Try listening to Rumours by Fleetwood Mac: https://www.youtube.com/playlist?list=PLpg0EOoO2vdUxDyiIfZGjwfI8fh6JRvg6. </i> 
