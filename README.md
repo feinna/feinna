@@ -10,7 +10,7 @@ I use large language models (Llama 3.1 8B, Mistral Small 3.1 24B, and Claude 4 O
 My hobbies include: reading, target archery (barebow), cycling, dancing (balboa), knitting, and playing D&D (I'm a half-orc rogue). I like to draw using my iPad and I have made art for myself and for mods of games. 
 
 ## 🔗 Links to organisations
-I am an affiliate of the ARC Automated Decision Making and Society Centre (https://www.admscentre.org.au/). Here is my profile on the ADM+S website (https://www.admscentre.org.au/jenn-wilson/). I cannot speak more highly to the centre itself, the scholars within it, the professional staff, and the overwhelmingly positive engagement that comes from being a member of a research group.
+I am an affiliate of the ARC Automated Decision Making and Society Centre (https://www.admscentre.org.au/). Here is my profile on the ADM+S website (https://www.admscentre.org.au/jenn-wilson/). I cannot speak more highly of the centre itself, the scholars within it, the professional staff, and the overwhelmingly positive engagement that comes from being a member of a research group.
 
 If you are thinking of doing a PhD in Australia, my biggest piece of advice is to do it through a research centre if you can, and if you can’t, find out if your prospective advisors are members of a research centre that you can affiliate with. It’s well worth the conversation.
 
